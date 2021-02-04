@@ -4,8 +4,10 @@
 
 I have learnt how to initialize a new repository locally using Command Prompt, stage a file and commit.
 
-<<<<<<< HEAD
 Created a new branch.
-=======
-I have just made changes remotely to this read me and now i will try pull those changes.
->>>>>>> Core
+
+I have just made changes remotely to this read me and now i will try pull those changes. (done in the Core branch)
+
+Merging to the Feature branch.
+
+
