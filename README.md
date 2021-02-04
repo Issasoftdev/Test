@@ -10,6 +10,8 @@ I have just made changes remotely to this read me and pulled changes in it. (don
 
 Merged to the Feature branch. Then made changes to feature branch and merged to Core.
 
-Commiting.
+Commited and updated Core branch. Making this final change to feature branch then closing it.
+
+Will revisit this repo another time to try things.
 
 
