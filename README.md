@@ -6,5 +6,10 @@ I have learnt how to initialize a new repository locally using Command Prompt, s
 
 Created a new branch.
 
-I have made changes remotely to this read me and now i pulled changes from it.
+I have just made changes remotely to this read me and pulled changes in it. (done in the Core branch)
+
+Merged to the Feature branch. Then made changes to feature branch and merged to Core.
+
+Commiting.
+
 
